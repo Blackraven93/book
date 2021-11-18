@@ -7,7 +7,8 @@
 ```javascript
     console.log("Hello world")
 ```
-- [X] gitbook sync
+
+- [X] ~~gitbook sync~~
 - [ ] markdown 만들기
 - [ ] HTML 책 만들기
 - [ ] CSS 책 만들기
